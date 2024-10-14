@@ -1,4 +1,4 @@
-![alt text](../misc/228.png)
+![alt text](../misc/0228.png)
 
 ### solution
 ```go
